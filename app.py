@@ -14,8 +14,12 @@ print("Hello World")
 # print(type(age))
 # print("Age : ",age)
 
-weight_lbs=input("weight (lbs): ")
-print(type(weight_lbs))
-weight_kg =int(weight_lbs)*0.45
-print(type(weight_kg))
-print(weight_kg , " kg")
+# weight_lbs=input("weight (lbs): ")
+# print(type(weight_lbs))
+# weight_kg =int(weight_lbs)*0.45
+# print(type(weight_kg))
+# print(weight_kg , " kg")
+
+# course="Python's for beginers"
+course='Python for "beginers"'
+print(course)
