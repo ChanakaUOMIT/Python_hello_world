@@ -23,3 +23,21 @@ print("Hello World")
 # course="Python's for beginers"
 course='Python for "beginers"'
 print(course)
+print(course[0])
+print(course[-2])
+print(course[0:3])
+print(course[0:])
+print(course[1:])
+print(course[:5])
+another=course[:]
+print(another)
+
+course=''' 
+Hi Join,
+
+Here is our first email for you.
+
+Thank you,
+Python Team
+'''
+print(course)
